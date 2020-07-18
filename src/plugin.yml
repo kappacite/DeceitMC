@@ -1,0 +1,14 @@
+name: DeceitMC
+author: kappacite
+version: 0.0.1
+main: fr.kappacite.deceit.Deceit
+commands:
+ addfuse:
+ addspawn:
+ addlight:
+ addblood:
+ addfusepose:
+ addobject:
+ adddoor:
+ addammo:
+ deceit:

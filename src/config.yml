@@ -1,0 +1,8 @@
+1-limit: 0
+2-limit: 50
+3-limit: 100
+database:
+ host: localhost
+ user: kappa
+ password: A32zav68
+ name: deceit
